@@ -9,4 +9,9 @@ $line_break\
 $username\
 $hostname\
 $localip\
+$shell\
 $character"""
+
+[shell]
+zsh_indicator = "[zsh](purple bold)"
+disabled = false
